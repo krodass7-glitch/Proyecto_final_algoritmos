@@ -1,8 +1,5 @@
 """
-PROYECTO IV - Algoritmos
-----------------------------------------------
-Este programa implementa un editor de texto básico con interfaz gráfica (GUI)
-usando la biblioteca Tkinter de Python.
+Este programa es un editor de texto con interfaz gráfica (GUI)
 
 FUNCIONALIDADES:
 - Abrir archivos de texto o código (.txt, .py, .cpp, etc.)
